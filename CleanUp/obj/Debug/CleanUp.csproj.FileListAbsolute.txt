@@ -1,0 +1,32 @@
+E:\Visual Studio\CleanUp\CleanUp\bin\Debug\CleanUp.exe.config
+E:\Visual Studio\CleanUp\CleanUp\bin\Debug\CleanUp.exe.manifest
+E:\Visual Studio\CleanUp\CleanUp\bin\Debug\CleanUp.application
+E:\Visual Studio\CleanUp\CleanUp\bin\Debug\CleanUp.exe
+E:\Visual Studio\CleanUp\CleanUp\bin\Debug\CleanUp.pdb
+E:\Visual Studio\CleanUp\CleanUp\obj\Debug\CleanUp.csprojAssemblyReference.cache
+E:\Visual Studio\CleanUp\CleanUp\obj\Debug\CleanUp.csproj.CoreCompileInputs.cache
+E:\Visual Studio\CleanUp\CleanUp\obj\Debug\CleanUp.exe.manifest
+E:\Visual Studio\CleanUp\CleanUp\obj\Debug\CleanUp.application
+E:\Visual Studio\CleanUp\CleanUp\obj\Debug\CleanUp.exe
+E:\Visual Studio\CleanUp\CleanUp\obj\Debug\CleanUp.pdb
+D:\Visual Studio\CleanUp\CleanUp\bin\Debug\CleanUp.exe.config
+D:\Visual Studio\CleanUp\CleanUp\bin\Debug\CleanUp.exe.manifest
+D:\Visual Studio\CleanUp\CleanUp\bin\Debug\CleanUp.application
+D:\Visual Studio\CleanUp\CleanUp\bin\Debug\CleanUp.exe
+D:\Visual Studio\CleanUp\CleanUp\bin\Debug\CleanUp.pdb
+D:\Visual Studio\CleanUp\CleanUp\obj\Debug\CleanUp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\CleanUp\CleanUp\obj\Debug\CleanUp.exe.manifest
+D:\Visual Studio\CleanUp\CleanUp\obj\Debug\CleanUp.application
+D:\Visual Studio\CleanUp\CleanUp\obj\Debug\CleanUp.exe
+D:\Visual Studio\CleanUp\CleanUp\obj\Debug\CleanUp.pdb
+C:\Users\Royal\source\repos\CleanUp\CleanUp\bin\Debug\CleanUp.exe.config
+C:\Users\Royal\source\repos\CleanUp\CleanUp\bin\Debug\CleanUp.exe.manifest
+C:\Users\Royal\source\repos\CleanUp\CleanUp\bin\Debug\CleanUp.application
+C:\Users\Royal\source\repos\CleanUp\CleanUp\bin\Debug\CleanUp.exe
+C:\Users\Royal\source\repos\CleanUp\CleanUp\bin\Debug\CleanUp.pdb
+C:\Users\Royal\source\repos\CleanUp\CleanUp\obj\Debug\CleanUp.csprojAssemblyReference.cache
+C:\Users\Royal\source\repos\CleanUp\CleanUp\obj\Debug\CleanUp.csproj.CoreCompileInputs.cache
+C:\Users\Royal\source\repos\CleanUp\CleanUp\obj\Debug\CleanUp.exe.manifest
+C:\Users\Royal\source\repos\CleanUp\CleanUp\obj\Debug\CleanUp.application
+C:\Users\Royal\source\repos\CleanUp\CleanUp\obj\Debug\CleanUp.exe
+C:\Users\Royal\source\repos\CleanUp\CleanUp\obj\Debug\CleanUp.pdb

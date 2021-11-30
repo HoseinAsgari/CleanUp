@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CleanUp.exe" version="1.0.0.3" publicKeyToken="ff9155cc8188b9ae" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="kisspng-broom-computer-icons-monochrome-cleaning-dividing-line-5ac7b91d73c648.8626091715230384934742.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CleanUp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CleanUp.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CleanUp.exe" size="111080">
+      <assemblyIdentity name="CleanUp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>/JpcjejJi0TwU4kb3ZUSXNj0F6CnPAfA+ctcLZbuLi8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CleanUp.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="kisspng-broom-computer-icons-monochrome-cleaning-dividing-line-5ac7b91d73c648.8626091715230384934742.ico" size="103937">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qaYuk0ds9TI23tRCdRvfRXky8BwyouLxiE32yBkh4aw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-0AH76LI\Hosein" issuerKeyHash="5eb9ec04a6ffb6d2a4e3c43bbb4f2a3e8276c492" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>OHdXwuP6NRfwOmrLF5Zgbm5BTyV7N0WXKzlL1q9ajv0=</DigestValue></Reference></SignedInfo><SignatureValue>ZR4Z1zX080Mgcgd1KA+y6aecmfdznUZrUa7/g89iIZfg6XZwTOvJBXYna5uo7m9EDKOSyEWxyZrXXO+7RWrjRVfz8rn+x0w5Aje/+IdH7wL10pZIyl8Z9N7q960Ab8g0yBUELPkys9XtEtRtSjaXnuCfBelRZTpgS5M1tuaeNfo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uCA80fXxV0n2eQuApwLxaN9A4zvA4vcBc0MPGdpSKWUri5c53Y/vaBkQw5oMVZOryR+YXvGEuGGNUBK7xtm80tFn82mpIfWa9Pz5RXXSZioqTIK+hP9v2rwSaEWg1vQy37lsRM1PD2Aipycljr0ELeTCPFiVkLdNfpmx4r85vh0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="fd8e5aafd64b392b9745377b254f416e6e609617cb6a3af01735fae3c2577738" Description="" Url=""><as:assemblyIdentity name="CleanUp.exe" version="1.0.0.3" publicKeyToken="ff9155cc8188b9ae" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-0AH76LI\Hosein</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>dSYqxJFrLQ0zyJ7qa+hUyr+9NQ/xmQ9L0LYh0i5Wqhg=</DigestValue></Reference></SignedInfo><SignatureValue>IDKrl3K0pl1LAbXFgJkDp1wdJBNdOwiaX/u7xK4UfQLz/UQZSnw8iTsacYvRAZBvJKKDaXdfelVTg/G1XWDyCO4AGSkROyerlpWapcAGpLDDfzBzU/kEGBvHdLqGOzMqOlTljFF4ejS5t19o0zl3A4dcCxKzCQYMVrBQdpr2Rd4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uCA80fXxV0n2eQuApwLxaN9A4zvA4vcBc0MPGdpSKWUri5c53Y/vaBkQw5oMVZOryR+YXvGEuGGNUBK7xtm80tFn82mpIfWa9Pz5RXXSZioqTIK+hP9v2rwSaEWg1vQy37lsRM1PD2Aipycljr0ELeTCPFiVkLdNfpmx4r85vh0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQeuUId80rd49C8HT5PJAR8DANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwARABFAFMASwBUAE8AUAAtADAAQQBIADcANgBMAEkAXABIAG8AcwBlAGkAbjAeFw0yMDA2MjMyMTM4MTNaFw0yMTA2MjQwMzM4MTNaMDcxNTAzBgNVBAMeLABEAEUAUwBLAFQATwBQAC0AMABBAEgANwA2AEwASQBcAEgAbwBzAGUAaQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4IDzR9fFXSfZ5C4CnAvFo30DjO8Di9wFzQw8Z2lIpZSuLlzndj+9oGRDDmgxVk6vJH5he8YS4YY1QErvG2bzS0Wfzaakh9Zr0/PlFddJmKipMgr6E/2/avBJoRaDW9DLfuWxEzU8PYCKnJyWOvQQt5MI8WJWQt01+mbHivzm+HQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAG9qlzWoFbXIAZ5+T29kyEXhE90ow53w8WlUgWfwXpAyrPj2l7MAsyoxTzCfrBzzUFhdSlffay3PRPXFEDeNnUfej9JFkKkPyAv0aCnO36XfiaD1gTQImJf3TtftTgjajQ6ehROdiwea07RsFy+xNclzpTYjXiwB8DYlX4az5lQD</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
